@@ -2,6 +2,10 @@
 
 ADD some text 
 
+Some more thanks here.
+Rebase!
+
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
