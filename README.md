@@ -13,3 +13,11 @@ some aaaaaaa
 #Deployments
 
 More stuff t follow
+
+
+
+Uncommitted changes
+
+
+
+STAGED
