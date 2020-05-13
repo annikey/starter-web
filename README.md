@@ -21,3 +21,6 @@ Uncommitted changes
 
 
 STAGED
+
+
+copyright
