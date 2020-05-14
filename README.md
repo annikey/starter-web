@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+Stash changes 
 Rebase conflict
 
 ADD some text 
