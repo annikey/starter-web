@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+Rebase conflict
+
 ADD some text 
 
 Some more thanks here.
